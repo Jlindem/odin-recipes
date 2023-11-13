@@ -9,4 +9,6 @@ It demonstrates basic HTML skills, file management, and use of Git.
 Later on, after learning CSS, it will be styled.
 
 # Reflections:
-… to be done after project is complete …
+I found this project quite easy at first, but enjoyed using GPT-4 and Dall-E to generate the recipes and images. 
+
+The HTML and file-management was fairly simple, and I look forward to styling it with CSS to make it look nice; right now it is quite brutalist...
